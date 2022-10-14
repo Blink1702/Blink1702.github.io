@@ -66,20 +66,20 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bernsoyer"
     - label: "HandShake"
-      icon: "fa-light fa-handshake-angle"
+      icon: "fab fa-fw fa-light fa-handshake-angle"
       url: "https://app.joinhandshake.com/stu/users/33236051"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "HandShake"
+      icon: "fab fa-fw fa-light fa-handshake-angle"
+      url: "https://app.joinhandshake.com/stu/users/33236051"
 
 defaults:
   # _posts
