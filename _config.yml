@@ -15,9 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Bernardo Oyervides
 email: bernardo.oyervides17@gmail.com
-description:  Personal website for Bernardo Oyervides, computer science student at Lawrence University
+description:  Personal website for Bernardo Oyervides, Computer Scientist
 twitter_username:
 github_username: Blink1702
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: neon
 search: true
 
