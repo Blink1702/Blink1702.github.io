@@ -78,7 +78,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "HandShake"
-      icon: "fab fa-fw fa-light fa-handshake-angle"
+      icon: "fab fa-fw fa-handshake-angle"
       url: "https://app.joinhandshake.com/stu/users/33236051"
 
 defaults:
