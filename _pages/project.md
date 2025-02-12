@@ -5,7 +5,7 @@ author_profile: true
 ---
 Info about my projects, maybe pictures, embed graphs...
 
-# Title
+# LU Food Pantry Web App
 
 ## Subtitle
 
