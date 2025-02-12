@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /project/
+title: "Project"
 author_profile: true
 ---
 Info about my projects, maybe pictures, embed graphs...
