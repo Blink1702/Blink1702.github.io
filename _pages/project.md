@@ -11,14 +11,23 @@ Info about my projects, maybe pictures, embed graphs...
 
 ### Subsubtitle
 
-Bullet Points
+How it was made
 
-- One
-- Two
-- Three
+- React/Next.JS
+- SpringBoot
+- MySQL
 
-```py
-def new function(a):
-  for i in range(a):
-    print("Hello, world!")
+```react
+export default function Home() {
+  return (
+    <main>
+      <h2>Welcome!</h2>
+      <p>Welcome to the Lawrence University Food Pantry!</p>
+
+      <div className="flex justify-center my-8">
+        <Link href="/orders/create">
+          <button className="btn-primary">Submit a form</button>
+        </Link>
+      </div>
+
 ```
