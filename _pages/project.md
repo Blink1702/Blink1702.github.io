@@ -9,9 +9,9 @@ Info about my projects, maybe pictures, embed graphs...
 
 ## Subtitle
 
-### Subsubtitle
+### How It Was Made
 
-How it was made
+Frameworks
 
 - React/Next.JS
 - SpringBoot
