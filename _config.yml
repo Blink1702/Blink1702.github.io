@@ -84,7 +84,7 @@ footer:
 defaults:
     # _posts
   - scope:
-      path: "_pages/project.md"
+      path: ""
      type: pages
     values:
       layout: single
