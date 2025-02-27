@@ -13,16 +13,16 @@ For those who are unfamiliar, the LU Student Food Pantry is available to any cur
 
 Right now this system is mostly manual, with the use of some Microsoft software, like;
 
--Microsoft Forms
+- Microsoft Forms
 Where students fill out the items they'd like to receive
--Outlook
+- Outlook
 Where students will receive a notification email to let them know their pantry order is ready.
--Excel
+- Excel
 Where staff can keep track of orders.
 
 ### Goals
 
-###Features
+### Features
 
 ### How It Was Made
 
@@ -47,6 +47,6 @@ export default function Home() {
       </div>
 
 ```
-#Challenges
+### Challenges
 
 #Problems
