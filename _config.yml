@@ -86,7 +86,7 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-    values: project.md
+    values:
       layout: single
       author_profile: true
 
