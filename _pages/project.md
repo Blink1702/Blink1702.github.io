@@ -1,13 +1,11 @@
 ---
 permalink: /project/
-title: "Project"
+title: "Senior Project"
 author_profile: true
 ---
-Info about my projects, maybe pictures, embed graphs...
-
 # LU Food Pantry Web App
 
-## Subtitle
+## How does the Food Pantry work right now?
 
 For those who are unfamiliar, the LU Student Food Pantry is available to any current Lawrence University student who is in immediate need or does not have access to essential items. The Pantry includes food, hygiene products, and school supplies. Students can only submit 1 online request per week. When that order is fulfilled, the student will be sent a confirmation email with an assigned number also located on the Pantry bag.
 
@@ -15,15 +13,21 @@ Right now this system is mostly manual, with the use of some Microsoft software,
 
 - Microsoft Forms
   
-Where students fill out the items they'd like to receive
+Where students fill out the items they'd like to receive.
+
 - Outlook
   
 Where students will receive a notification email to let them know their pantry order is ready.
+
 - Excel
   
 Where staff can keep track of orders.
 
 ### Goals
+
+#### Streamlining
+
+#### Automation
 
 ### Features
 
@@ -53,3 +57,12 @@ export default function Home() {
 ### Challenges
 
 ### Problems
+
+### Repos
+
+Front-end:
+https://github.com/Blink1702/berny-seniorproject
+
+Back-end:
+https://github.com/Blink1702/berny-seniorproject-backend
+
