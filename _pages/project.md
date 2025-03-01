@@ -174,7 +174,7 @@ export default async function OrderList() {
 ![image](https://github.com/user-attachments/assets/8ddb1213-4690-4207-911f-2e129c0fb445)
 
 
-### Future Updates
+## Future Updates
 * Customazible notifications
   - I would like to expand the ways in which students can find out their pantry order is ready. Like having in-app notifications or automated email notifications. And let the students choose which type they would like to receive.
 * Order Notes
@@ -182,7 +182,7 @@ export default async function OrderList() {
 * Order Editing
   - Right now the only thing staff can do with orders is changing their status from Not Fulfilled to Fulfilled. I would want to implement the feature of admins being able to edit orders if need be. 
 
-### Repos
+## Repos
 If you want to take a look at the code:
 
 Front-end:
