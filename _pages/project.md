@@ -5,25 +5,9 @@ author_profile: true
 ---
 # LU Food Pantry Web App
 
-```react
-export default function Home() {
-  return (
-    <main>
-      <h2>Welcome!</h2>
-      <p>Welcome to the Lawrence University Food Pantry!</p>
+For my senior project I developed a web app and its back-end for the Lawrence University Food Pantry.
 
-      <div className="flex justify-center my-8">
-        <Link href="/orders/create">
-          <button className="btn-primary">Submit a form</button>
-        </Link>
-      </div>
-
-```
-
-![image](https://github.com/user-attachments/assets/d1a4de94-06db-4e7a-bd4c-313c2dd85e9e)
-
-
-## How does the Food Pantry work right now?
+## Why did I decide to do this?
 
 For those who are unfamiliar, the LU Student Food Pantry is available to any current Lawrence University student who is in immediate need or does not have access to essential items. The Pantry includes food, hygiene products, and school supplies. Students can only submit 1 online request per week. When that order is fulfilled, the student will be sent a confirmation email with an assigned number also located on the Pantry bag.
 
@@ -42,6 +26,7 @@ Where students will receive a notification email to let them know their pantry o
 Where staff can keep track of orders.
 
 ### Goals
+This is what I mainly wanted to improve by making my web-app.
 
   #### Streamlining
    I wanted this app to be able to streamline the process for the staff and students. The goal was to make this the only app staff need to use to check and fulfill student orders; and students to place and know the status of those pantry orders.
@@ -49,7 +34,7 @@ Where staff can keep track of orders.
   #### Automation
   With that comes the automation. instead of staff needing to amnually input new orders from Office Forms to Excel, then after an order being fullfilled needing to write an email to the student letting them know it was ready. The app can do it for them.
 
-### How It Was Made
+## How It Was Made
 With the following I decided to make the web app: 
 
 Frameworks
@@ -67,6 +52,25 @@ I decided to learn React, specifically the Next.js framework, firstly because I'
 For the back-end I was already familiar with Springboot and MySQL, so I chose them since I wanted for the back-end to be reliable and not take much of my time since I wanted to focus more on the front-end and learning React.
 
 ### Features
+* Home Page
+  - Landign page, where staff can add any updates to the pantry.
+  
+![image](https://github.com/user-attachments/assets/d1a4de94-06db-4e7a-bd4c-313c2dd85e9e)
+```react
+export default function Home() {
+  return (
+    <main>
+      <h2>Welcome!</h2>
+      <p>Welcome to the Lawrence University Food Pantry!</p>
+
+      <div className="flex justify-center my-8">
+        <Link href="/orders/create">
+          <button className="btn-primary">Submit a form</button>
+        </Link>
+      </div>
+
+```
+
 * Order Submission
   - This is a simple page where students will submit the items they want, and they will be uploaded to the database.
 
@@ -124,6 +128,7 @@ export default function CreateForm() {
   )
 }
 ```
+
 * Order Management
   - In this page, staff can see all the orders placed, and some information about them, specially their status of being fulfilled or not.
 
