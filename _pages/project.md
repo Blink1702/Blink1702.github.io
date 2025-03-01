@@ -28,10 +28,10 @@ Where staff can keep track of orders.
 ### Goals
 This is what I mainly wanted to improve by making my web-app.
 
-  #### Streamlining
+  **Streamlining**
    I wanted this app to be able to streamline the process for the staff and students. The goal was to make this the only app staff need to use to check and fulfill student orders; and students to place and know the status of those pantry orders.
 
-  #### Automation
+  **Automation**
   With that comes the automation. instead of staff needing to amnually input new orders from Office Forms to Excel, then after an order being fullfilled needing to write an email to the student letting them know it was ready. The app can do it for them.
 
 ## How It Was Made
